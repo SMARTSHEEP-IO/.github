@@ -1,2 +1,1 @@
-# .github
-SMARTSHEEP.IO
+# SMARTSHEEP.IO
